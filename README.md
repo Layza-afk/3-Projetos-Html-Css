@@ -11,3 +11,9 @@ Nivel: fácil
 Nome: Trocador de cor
 
 Proposta: Um site que pede o nome de uma cor em # e troca a cor da pagina inteira.
+
+-------------------------------------- proj 02 --------------------------------------
+
+Nome: Pagina de registro (login e cadastro)
+
+Proposta: Criar uma tela que recebe infos do usuario para entrar ou/e se cadastrar em um site.

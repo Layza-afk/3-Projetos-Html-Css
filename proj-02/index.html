@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>LoginPage</title>
+</head>
+
+<body>
+    <div class="conteiner">
+        <div class="left">
+            <!--<img src="img/corpo.png" alt="uma tela laranja na metade da tela"> -->
+
+            <div class="btn">
+                <button onclick="cadastro()">cadastrar</button>
+                <button onclick="entrar()">entrar</button>
+            </div>
+        </div>
+
+        <div class="right">
+            <div class="topo">
+                <p><span>CODE</span> CLEAR</p>
+
+                <div id="tema">
+                    <img src="img/light.png" alt="bolinha">
+                </div>
+            </div>
+
+            <div class="conteudo">
+                <div class="letrero">
+                    <h1>Oi, Usuário</h1>
+                    <p>Bem Vindo á Code Clear</p>
+                </div>
+
+                <div class="formulario">
+                    <form action="">
+                        <input type="text" id="nome" placeholder="Nome" required>
+                        <input type="password" id="senha" placeholder="Senha" required>
+                    </form>
+
+                    <button>ENTRAR</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/autenticação.js"></script>
+    <script src="js/dark.js"></script>
+</body>
+</html>
