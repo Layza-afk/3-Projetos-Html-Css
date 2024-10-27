@@ -17,3 +17,5 @@ Proposta: Um site que pede o nome de uma cor em # e troca a cor da pagina inteir
 Nome: Pagina de registro (login e cadastro)
 
 Proposta: Criar uma tela que recebe infos do usuario para entrar ou/e se cadastrar em um site.
+
+-------------------------------------- proj 03 --------------------------------------
