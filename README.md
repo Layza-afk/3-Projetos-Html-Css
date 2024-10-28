@@ -1,4 +1,4 @@
-# 5 Projetos Front-end
+# 3 Projetos usando HTML, CSS e JS
  
 Esse repositorio contém cinco (5) pequenos projetos para o front end.
 

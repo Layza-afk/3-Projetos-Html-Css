@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+    background-color: rgb(49, 49, 240);
+}
+
+div {
+    background-color: rgb(15, 20, 58);
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+span {
+    background-color: rgb(6, 26, 82);
+    color: #ffffff;
+    padding: 0.2rem;
+    border-radius: 8px;
+    font-size: 4rem;
+}
