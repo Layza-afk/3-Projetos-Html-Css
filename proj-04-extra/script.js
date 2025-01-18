@@ -3,7 +3,7 @@ let nome = document.getElementById("name");
 
 let displayNumeroNome = document.querySelector(".numero");
 
-let lista = {
+const lista = {
   11: "layza",
   20: "vitoria",
   3: "fraramis",
